@@ -1,3 +1,4 @@
+import React from "react";
 function MessageCard({ title, message }) {
   return (
     <div style={{ border: "1px solid gray", margin: "10px", padding: "10px" }}>
